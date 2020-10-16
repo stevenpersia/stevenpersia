@@ -1,16 +1,16 @@
 # Hi, I'm Steven Persia ![yo](https://cdn.discordapp.com/emojis/607008285505224712.png?size=32)
 
-![trainer](https://cdn.discordapp.com/emojis/601687220075757581.png?size=16) Freelance developer
+![trainer](https://cdn.discordapp.com/emojis/601687220075757581.png?size=20) Freelance developer
 
-![trainer](https://cdn.discordapp.com/emojis/430179754105110539.png?size=16) CTO of [Digital CSE](https://www.digitalcse.fr)
+![trainer](https://cdn.discordapp.com/emojis/430179754105110539.png?size=20) CTO of [Digital CSE](https://www.digitalcse.fr)
 
-![trainer](https://cdn.discordapp.com/emojis/618588628989378590.png?size=16) [Twitch](https://twitch.tv/stevenpersia) streamer
+![trainer](https://cdn.discordapp.com/emojis/618588628989378590.png?size=20) [Twitch](https://twitch.tv/stevenpersia) streamer
 
-![trainer](https://cdn.discordapp.com/emojis/612123309051740181.png?size=16) Trainer at [Le Reacteur](https://lereacteur.io)
+![trainer](https://cdn.discordapp.com/emojis/612123309051740181.png?size=20) Trainer at [Le Reacteur](https://lereacteur.io)
 
-![trainer](https://cdn.discordapp.com/emojis/648974637182484500.png?size=16) You can find me on [Twitter](https://twitter.com/stevenpersia_js), [LinkedIn](https://linkedin.com/stevenpersia) and [Twitch](https://twitch.tv/stevenpersia).
+![trainer](https://cdn.discordapp.com/emojis/648974637182484500.png?size=20) You can find me on [Twitter](https://twitter.com/stevenpersia_js), [LinkedIn](https://linkedin.com/stevenpersia) and [Twitch](https://twitch.tv/stevenpersia).
 
-#### Languages
+##### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
@@ -18,7 +18,7 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-000?&logo=Prettier)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 
-#### Technologies
+##### Technologies
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000)
@@ -38,7 +38,7 @@
 ![NGINX](https://img.shields.io/badge/-NGINX-000?&logo=NGINX)
 ![Let's Encrypt](https://img.shields.io/badge/-Let's%20Encrypt-000?&logo=lets-encrypt)
 
-#### Services
+##### Services
 
 ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-000?&logo=DigitalOcean)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
