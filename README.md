@@ -8,7 +8,7 @@
 
 ![trainer](https://cdn.discordapp.com/emojis/612123309051740181.png?size=20) Trainer at [Le Reacteur](https://lereacteur.io)
 
-![trainer](https://cdn.discordapp.com/emojis/648974637182484500.png?size=20) You can find me on [Twitter](https://twitter.com/stevenpersia_js), [LinkedIn](https://linkedin.com/stevenpersia) and [Twitch](https://twitch.tv/stevenpersia).
+![trainer](https://cdn.discordapp.com/emojis/648974637182484500.png?size=20) You can find me on [Twitter](https://twitter.com/stevenpersia_js), [LinkedIn](https://linkedin.com/in/stevenpersia) and [Twitch](https://twitch.tv/stevenpersia).
 
 ##### Languages
 
