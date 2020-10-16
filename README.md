@@ -50,5 +50,3 @@
 ![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=Material-UI)
 
 _Feel free to follow my GitHub profile or to contact me on [Twitch](https://twitch.tv/stevenpersia) / [Twitter](https://twitter.com/stevenpersia_js)._
-
-![bye](https://cdn.discordapp.com/emojis/607008265284616233.png?size=32)
