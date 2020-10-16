@@ -10,8 +10,6 @@
 
 ![trainer](https://cdn.discordapp.com/emojis/612123309051740181.png?size=20) Trainer at [Le Reacteur](https://lereacteur.io)
 
-![trainer](https://cdn.discordapp.com/emojis/648974637182484500.png?size=20) You can find me on [Twitter](https://twitter.com/stevenpersia_js), [LinkedIn](https://linkedin.com/in/stevenpersia) and [Twitch](https://twitch.tv/stevenpersia).
-
 ##### What I know
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -49,4 +47,4 @@
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-000?&logo=Ant-Design)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=Material-UI)
 
-_Feel free to follow my GitHub profile or to contact me on [Twitch](https://twitch.tv/stevenpersia) / [Twitter](https://twitter.com/stevenpersia_js)._
+_Feel free to follow my GitHub profile or to contact me on [Twitch](https://twitch.tv/stevenpersia) / [Twitter](https://twitter.com/stevenpersia_js) / [LinkedIn](https://linkedin.com/in/stevenpersia)._
