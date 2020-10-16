@@ -4,7 +4,7 @@
 
 ![trainer](https://cdn.discordapp.com/emojis/601687220075757581.png?size=20) Freelance developer
 
-![trainer](https://cdn.discordapp.com/emojis/430179754105110539.png?size=20) CTO of [Digital CSE](https://www.digitalcse.fr)
+![trainer](https://cdn.discordapp.com/emojis/430179754105110539.png?size=20) CTO & Founder of [Digital CSE](https://www.digitalcse.fr)
 
 ![trainer](https://cdn.discordapp.com/emojis/618588628989378590.png?size=20) [Twitch](https://twitch.tv/stevenpersia) streamer
 
