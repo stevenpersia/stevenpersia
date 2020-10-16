@@ -1,4 +1,4 @@
-# Hi, I'm Steven Persia ![yo](https://cdn.discordapp.com/emojis/607008285505224712.png?size=32)
+# Ahoy !
 
 ![trainer](https://cdn.discordapp.com/emojis/601687220075757581.png?size=20) Freelance developer
 
