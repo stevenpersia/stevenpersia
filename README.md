@@ -1,5 +1,3 @@
-<div align="center">
-  
 # Hi, I'm Steven Persia ![yo](https://cdn.discordapp.com/emojis/607008285505224712.png?size=32)
 
 Freelance developer **-** CTO of [Digital CSE](https://www.digitalcse.fr) **-** [Twitch](https://twitch.tv/stevenpersia) streamer **-** Trainer at [Le Reacteur](https://lereacteur.io)
@@ -52,5 +50,3 @@ You can find me on [Twitter](https://twitter.com/stevenpersia_js), [LinkedIn](ht
 _Feel free to follow my GitHub profile or to contact me on [Twitch](https://twitch.tv/stevenpersia) / [Twitter](https://twitter.com/stevenpersia_js)._
 
 ![bye](https://cdn.discordapp.com/emojis/607008265284616233.png?size=32)
-
-</div>
