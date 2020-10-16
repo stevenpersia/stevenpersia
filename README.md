@@ -10,16 +10,13 @@
 
 ![trainer](https://cdn.discordapp.com/emojis/648974637182484500.png?size=20) You can find me on [Twitter](https://twitter.com/stevenpersia_js), [LinkedIn](https://linkedin.com/in/stevenpersia) and [Twitch](https://twitch.tv/stevenpersia).
 
-##### Languages
+##### What I know
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![Eslint](https://img.shields.io/badge/-Eslint-000?&logo=Eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-000?&logo=Prettier)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-
-##### Technologies
-
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
@@ -37,9 +34,6 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 ![NGINX](https://img.shields.io/badge/-NGINX-000?&logo=NGINX)
 ![Let's Encrypt](https://img.shields.io/badge/-Let's%20Encrypt-000?&logo=lets-encrypt)
-
-##### Services
-
 ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-000?&logo=DigitalOcean)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
