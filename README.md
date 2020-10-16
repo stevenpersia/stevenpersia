@@ -1,5 +1,7 @@
 # Ahoy !
 
+##### Who I am
+
 ![trainer](https://cdn.discordapp.com/emojis/601687220075757581.png?size=20) Freelance developer
 
 ![trainer](https://cdn.discordapp.com/emojis/430179754105110539.png?size=20) CTO of [Digital CSE](https://www.digitalcse.fr)
