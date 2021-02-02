@@ -2,13 +2,7 @@
 
 ##### Who I am
 
-![Freelance](https://cdn.discordapp.com/emojis/601687220075757581.png?size=20) [Freelance](https://www.malt.fr/profile/stevenpersia) developer
-
-![CTO](https://cdn.discordapp.com/emojis/430179754105110539.png?size=20) Co-Founder & CTO of [Digital CSE](https://www.digitalcse.fr)
-
-![Streamer](https://cdn.discordapp.com/emojis/618588628989378590.png?size=20) [Twitch](https://twitch.tv/stevenpersia) streamer
-
-![Teacher](https://cdn.discordapp.com/emojis/612123309051740181.png?size=20) Teacher at [Le Reacteur](https://lereacteur.io)
+[Freelance](https://www.malt.fr/profile/stevenpersia) developer • Co-Founder & CTO of [Digital CSE](https://www.digitalcse.fr) • [Twitch](https://twitch.tv/stevenpersia) streamer • Teacher at [Le Reacteur](https://lereacteur.io)
 
 ##### What I know
 
