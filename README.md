@@ -42,6 +42,6 @@
 ![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=Material-UI)
 
 ##### Currently working on algorithms *(here a list of all algorithms I've learned)*.
-Binary search - Bubble sort - Selection sort - Insertion sort
+Binary search - Bubble sort - Selection sort - Insertion sort - ...
 
 _Feel free to follow my GitHub profile or to contact me on [Twitch](https://twitch.tv/stevenpersia) / [Twitter](https://twitter.com/stevenpersia_js) / [LinkedIn](https://linkedin.com/in/stevenpersia)._
