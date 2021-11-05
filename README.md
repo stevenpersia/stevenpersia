@@ -1,8 +1,17 @@
-# Ahoy !
+# YO
 
 ##### Who I am
 
-[Freelance](https://www.malt.fr/profile/stevenpersia) developer • Co-Founder & CTO of [Digital CSE](https://www.digitalcse.fr) • [Twitch](https://twitch.tv/stevenpersia) streamer • Teacher at [Le Reacteur](https://lereacteur.io)
+I’m a web developer and an open source contributor in JavaScript language. I spend most of my time coding new things and learning new technologies. I’m interested about clean code, design patterns and clean architecture.
+
+_Feel free to follow my GitHub profile or to contact me on [Twitch](https://twitch.tv/stevenpersia) / [Twitter](https://twitter.com/stevenpersia_js) / [LinkedIn](https://linkedin.com/in/stevenpersia)._
+
+💻 [Freelance](https://www.malt.fr/profile/stevenpersia) developer  
+💖 Passionate about open source & development  
+🦸🏼‍♂️ Co-Founder & CTO of [Digital CSE](https://www.digitalcse.fr)  
+🧙🏼‍♂️ Teacher at [Le Reacteur](https://lereacteur.io)  
+🎙️ [Twitch](https://twitch.tv/stevenpersia) streamer & Workshops creator  
+🧪 Currently working on algorithms and DevOps methodology  
 
 ##### What I know
 
@@ -41,7 +50,3 @@
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-000?&logo=Ant-Design)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=Material-UI)
-
-##### Currently working on algorithms.
-
-_Feel free to follow my GitHub profile or to contact me on [Twitch](https://twitch.tv/stevenpersia) / [Twitter](https://twitter.com/stevenpersia_js) / [LinkedIn](https://linkedin.com/in/stevenpersia)._
