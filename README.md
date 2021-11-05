@@ -1,6 +1,6 @@
 # YO
 
-##### Who I am
+### Who I am
 
 I’m a web developer and an open source contributor in JavaScript language. I spend most of my time coding new things and learning new technologies. I’m interested about clean code, design patterns and clean architecture.
 
@@ -13,7 +13,7 @@ _Feel free to follow my GitHub profile or to contact me on [Twitch](https://twit
 🎙️ [Twitch](https://twitch.tv/stevenpersia) streamer & Workshops creator  
 🧪 Currently working on algorithms and DevOps methodology  
 
-##### What I know
+### What I know
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
