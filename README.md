@@ -12,7 +12,7 @@ _Feel free to follow my GitHub profile or to contact me on [Twitch](https://twit
 🧙🏼‍♂️ Teacher at [Le Reacteur](https://lereacteur.io)  
 🎙️ [Twitch](https://twitch.tv/stevenpersia) streamer & Workshops creator  
 🔥 10+ years as web developer (3+ years as fullstack JavaScript developer)   
-🧪 Currently working on algorithms and DevOps methodology  
+🧪 Currently working on algorithms and Elixir     
 
 ### What I know
 
