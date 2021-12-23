@@ -6,13 +6,15 @@ I’m a web developer and an open source contributor in JavaScript language. I s
 
 _Feel free to follow my GitHub profile or to contact me on [Twitch](https://twitch.tv/stevenpersia) / [Twitter](https://twitter.com/stevenpersia_js) / [LinkedIn](https://linkedin.com/in/stevenpersia)._
 
-💻 [Freelance](https://www.malt.fr/profile/stevenpersia) developer  
+
 💖 Passionate about open source & development  
-🦸🏼‍♂️ Co-Founder & CTO of [Digital CSE](https://www.digitalcse.fr)  
-🧙🏼‍♂️ Teacher at [Le Reacteur](https://lereacteur.io)  
+🦸🏼‍♂️ Co-Founder of [Digital CSE](https://www.digitalcse.fr)  
 🎙️ [Twitch](https://twitch.tv/stevenpersia) streamer & Workshops creator  
 🔥 10+ years as web developer (3+ years as fullstack JavaScript developer)   
 🧪 Currently working on algorithms and Elixir     
+
+
+💻 Formerly [Freelance](https://www.malt.fr/profile/stevenpersia) developer and Teacher at [Le Reacteur](https://lereacteur.io)  
 
 ### What I know
 
