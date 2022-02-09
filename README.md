@@ -11,7 +11,7 @@ _Feel free to follow my GitHub profile or to contact me on [Twitch](https://twit
 🦸🏼‍♂️ Co-Founder of [Digital CSE](https://www.digitalcse.fr)  
 🎙️ [Twitch](https://twitch.tv/stevenpersia) streamer & Workshops creator  
 🔥 10+ years as web developer (3+ years as fullstack JavaScript developer)   
-🧪 Currently working on algorithms and Elixir     
+🧪 Currently working on algorithms     
 
 
-💻 Formerly [Freelance](https://www.malt.fr/profile/stevenpersia) developer and Teacher at [Le Reacteur](https://lereacteur.io)  
+💻 Formerly freelance developer and teacher at [Le Reacteur](https://lereacteur.io)  
