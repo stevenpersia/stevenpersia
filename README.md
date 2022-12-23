@@ -10,7 +10,7 @@ _Feel free to follow my GitHub profile or to contact me on [Twitch](https://twit
 💖 Passionate about open source & development  
 🦸🏼‍♂️ Co-Founder of [Digital CSE](https://www.digitalcse.fr) & [Silia](https://www.silia.co)  
 🎙️ [Twitch](https://twitch.tv/stevenpersia) streamer & Workshops creator  
-🔥 4+ years as fullstack JavaScript developer
+🔥 4+ years as fullstack JavaScript developer  
 🧪 Currently learning Elixir    
 
 
