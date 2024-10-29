@@ -8,10 +8,9 @@ _Feel free to follow my GitHub profile or to contact me on [Twitch](https://twit
 
 🌳 Front end developer at [Welcome to the Jungle](https://www.welcometothejungle.com/)  
 💖 Passionate about open source & development  
-🦸🏼‍♂️ Co-Founder of [Digital CSE](https://www.digitalcse.fr) & [Silia](https://www.silia.co)  
-🎙️ [Twitch](https://twitch.tv/stevenpersia) streamer & Workshops creator  
-🔥 4+ years as fullstack JavaScript developer  
+🔥 6+ years as fullstack JavaScript developer  
 🧪 Currently learning Elixir    
 
-
 💻 Formerly freelance developer and teacher at [Le Reacteur](https://lereacteur.io)  
+🦸🏼‍♂️ Formerly co-founder of [Digital CSE](https://www.digitalcse.fr) & [Silia](https://www.silia.co)  
+🎙️ Formerly [Twitch](https://twitch.tv/stevenpersia) streamer & Workshops creator  
