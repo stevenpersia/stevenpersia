@@ -1,15 +1,16 @@
-# YO
+### Hi, I'm Steven 👋
 
-### Who I am
+Software engineer at [Welcome to the Jungle](https://www.welcometothejungle.com/), building products with AI.
 
-I’m a web developer and an open source contributor in JavaScript language. I spend most of my time coding new things and learning new technologies. I’m interested about clean code, design patterns and clean architecture.
+#### Apps in production
 
-_Feel free to follow my GitHub profile or to contact me on [Twitch](https://twitch.tv/stevenpersia) / [Twitter](https://twitter.com/stevenpersia_js) / [LinkedIn](https://linkedin.com/in/stevenpersia)._
+- <img src="assets/kinglet.png" width="20" height="20" alt="" align="top"> **[Kinglet](https://getkinglet.com)**: the dev environment for vibe coding
+- <img src="assets/backslash.svg" width="20" height="20" alt="" align="top"> **[Backslash](https://www.getbackslash.com)**: a keyboard-first launcher for Linux ([open source](https://github.com/backslash-app/backslash))
+- <img src="assets/boardgameblob.png" width="20" height="20" alt="" align="top"> **[BoardGameBlob](https://www.boardgameblob.com)**: board game rules, answered by Blob
+- <img src="assets/boardgamebase.png" width="20" height="20" alt="" align="top"> **[BoardGameBase](https://boardgamebase.com)**: an open board game reference in 5 languages
+- <img src="assets/boardgametag.png" width="20" height="20" alt="" align="top"> **[BoardGameTag](https://boardgametag.com)**: run a board game swap meet, even offline
+- <img src="assets/boardgameclan.png" width="20" height="20" alt="" align="top"> **[BoardGameClan](https://boardgameclan.com)**: organise your gaming group and game nights
 
-🌳 Software developer at [Welcome to the Jungle](https://www.welcometothejungle.com/)  
-💖 Passionate about open source & development  
-🔥 7+ years as fullstack JavaScript developer  
+#### Find me
 
-💻 Formerly freelance developer and teacher at [Le Reacteur](https://lereacteur.io)  
-🦸🏼‍♂️ Formerly co-founder of [Digital CSE](https://www.digitalcse.fr) & [Silia](https://www.silia.co)  
-🎙️ Formerly [Twitch](https://twitch.tv/stevenpersia) streamer & Workshops creator  
+[LinkedIn](https://linkedin.com/in/stevenpersia) · [X](https://x.com/stevenpersia_js) · [Twitch](https://twitch.tv/stevenpersia)
