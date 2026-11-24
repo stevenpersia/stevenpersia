@@ -1,0 +1,26 @@
+  .--------------------------------------------------------------------.
+  |                 __________________    _________   __               |
+  |                / ___/_  __/ ____/ |  / / ____/ | / /               |
+  |                \__ \ / / / __/  | | / / __/ /  |/ /                |
+  |               ___/ // / / /___  | |/ / /___/ /|  /                 |
+  |              /____//_/ /_____/  |___/_____/_/ |_/                  |
+  |                                                                    |
+  |                -=[ presents his latest releases ]=-                |
+  `--------------------------------------------------------------------'
+
+    :: WHO      Steven Persia
+    :: WHAT     Software engineer @ Welcome to the Jungle
+    :: HOW      Building products with AI
+
+  +---[ releases ]-----------------------------------------------------+
+  |  > Kinglet        the dev environment for vibe coding              |
+  |  > Backslash      keyboard-first launcher for Linux                |
+  |  > BoardGameBlob  board game rules, answered by Blob               |
+  |  > BoardGameBase  open board game reference, 5 langs               |
+  |  > BoardGameTag   board game swap meet, even offline               |
+  |  > BoardGameClan  organise your group & game nights                |
+  +--------------------------------------------------------------------+
+
+    "if you enjoy it, star the repo. it's the only crack i release."
+
+  -=*=--=*=--=*=--=*=--=*=--=*=--=*=--=*=--=*=--=*=--=*=--=*=--=*=--=*=-
